@@ -1,0 +1,1 @@
+Moja pierwsza apka - prosta konsolowa gra w kółko i krzyżyk. Łopatologicznie napisana, no ale w końcu była pierwsza :)
